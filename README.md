@@ -3,10 +3,7 @@
 This project is a data visualization and analysis of Airbnb listings using Tableau. It highlights patterns in pricing, availability, geographical distribution, and revenue potential to support data-driven decision-making for hosts, analysts, and stakeholders.
 
 ---
-
-## 🖼 Dashboard Preview
-
-![Dashboard Preview]("D:\Data Analysis Projects\Tableau Project\AirBNB Tableau Project.png")
+Dashboard: https://public.tableau.com/app/profile/youssef.essam5579/viz/AirBNBfullTableauproject/Dashboard1
 
 ## 🔍 Project Overview
 
